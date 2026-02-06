@@ -1,0 +1,2 @@
+C:/update plan for april 25/foodbank/foodbank-delivery-app/android/app/.cxx/Debug/6q3q4o2i/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/update plan for april 25/foodbank/foodbank-delivery-app/android/app/.cxx/Debug/6q3q4o2i/armeabi-v7a/CMakeFiles/rebuild_cache.dir

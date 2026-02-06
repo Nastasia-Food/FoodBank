@@ -1,0 +1,2 @@
+C:/version update feb 25/foodbank-merchant-app/android/app/.cxx/Debug/9262s2j3/x86_64/CMakeFiles/edit_cache.dir
+C:/version update feb 25/foodbank-merchant-app/android/app/.cxx/Debug/9262s2j3/x86_64/CMakeFiles/rebuild_cache.dir
